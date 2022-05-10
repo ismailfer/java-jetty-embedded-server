@@ -5,7 +5,7 @@
 - JSP support
 - Maven packaging in an executable jar
 
-## Source
+### Modified from original source
 
-https://www.vogella.com/tutorials/Jetty/article.html
-https://wiki.eclipse.org/Jetty/Tutorial/Embedding_Jetty
+https://github.com/jetty-project/embedded-jetty-jsp
+
